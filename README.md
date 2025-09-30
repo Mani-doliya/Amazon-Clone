@@ -28,7 +28,7 @@ Amazon-Clone/
 
 ```
 
-│── index.html
+│── amazon.html
 │── style.css
 │── /img (all images used)
 │── amazon.gif
@@ -50,7 +50,7 @@ Amazon-Clone/
    ```bash
    git clone https://github.com/mani-doliya/amazon-clone.git
 2. Make sure the `img` folder contains all images used in the project.
-3. Open `index.html` in a desktop web browser.
+3. Open `amazon.html` in a desktop web browser.
 
 > **Note:** This clone is static and **not responsive**. It is designed for desktop screens only.
 
