@@ -41,7 +41,7 @@ Amazon-Clone/
 
 ### 📽️ Home Page
 ### 🔹 Demo GIF
-![Demo](amazon.gif)
+![Demo](Amazon.gif)
 
 ---
 
